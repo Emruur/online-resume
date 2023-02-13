@@ -76,21 +76,38 @@ skills:
     details: |
         Here are my skills:
         + Web development:
-          + HTML
-          + JS
-          + CSS
-        + Game Development (Uniy)
-
+          + HTML, JS, CSS
+          + Vue, Nuxt
+        + Game Development:
+          + Unity (C#)
+          + Python 
+        + Desktop Development:
+          + Java (Java Fx)
+        + Backend development:
+          + Spring (Java)
+          + Express (Node.js)
+          + Flask,Django (Python)
+          + SQL
+          + Graph QL
+        + Cloud:
+          + Firebase
+          + Supabase
+          + Docker
+        + Extensive algorithms and data stuctures:
+          + C++
+        + Operating systems: 
+          + Unix
+          + Linux
         ...
 
 education:
     display: true
     title: Education
     items:
-        - university: Example University
+        - university: Ted Ankara College
           time: 2015 - 2018
           major: Machine Learning
-          degree: Master
+          degree: IB
           details: |
               Experience in this university:
               + First
