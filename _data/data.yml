@@ -1,15 +1,15 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Emre Uğur
+  title: Computer Scientist
   avatar:
     display: true
-    path: profile.png
+    path: https://emruur.github.io/assets/profile-avatart.jpg
 
 contact:
-  location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  location: Ankara, Turkey
+  email: emre.ugur@ug.bilkent.edu.tr
+  phone: +90-531-270-68-02
+  website: emruur.github.io
   wechat:
   whatsapp:
   telegram:
