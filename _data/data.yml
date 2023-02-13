@@ -3,7 +3,7 @@ basic:
   title: Computer Scientist
   avatar:
     display: true
-    path: https://emruur.github.io/assets/profile-avatart.jpg
+    path: profile-avatar.jpg
 
 contact:
   location: Ankara, Turkey
@@ -13,14 +13,14 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/Emruur
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/emre-uğur/
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
