@@ -106,16 +106,15 @@ education:
     items:
         - university: Ted Ankara College
           time: 2015 - 2018
-
-          degree: IB
+          major: International Bacaloruate Program (IB)
+          degree: High School
           details: |
-              Experience in this university:
-              + First
-              + Second
-
+              Experience in this program:
+              + High Level Physics
+              + High Level Turkish Literature
               ...
 
-        - university: Example University
+        - university: Bilkent University
           time: 2011 - 2015
           major: Computer Science
           degree: Bachelor
