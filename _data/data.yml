@@ -42,10 +42,11 @@ experiences:
           company: Karel
           tag:
           location: Ankara, Turkey
-          details: 
-              Experience in this company:
-              + Full Stack app development for internal uses
-              + Documenting and Testing F5-Big IP machine
+          details: |
+            Experience in this company:
+            + First
+            + Second
+            ...
 
 
 projects:
