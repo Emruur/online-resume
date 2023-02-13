@@ -3,7 +3,7 @@ basic:
   title: Computer Scientist
   avatar:
     display: true
-    path: profile-avatar.jpg
+    path: profile-avatar.jpeg
 
 contact:
   location: Ankara, Turkey
