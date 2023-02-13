@@ -32,41 +32,29 @@ profile:
         I am a programmer who is interested in simulating natural systems and creative coding. I enjoy applying physicals laws to code and observe the behaviour.
         I develop full stack web appllications but i can apply my skills to other fields such as mobile development or desktop development. I excel in learning new skills and applying them.
 
-        ...
 
 experiences:
     display: true
     title: Experiences
     items:
         - role: Full-StackDeveloper
-          time: 2018.03 - 2019.03
-          company: Second Company
+          time: 18.07.2022 - 12.08.2022
+          company: Karel
           tag:
-          location: Bilkent,Ankara
-          details: |
+          location: Ankara, Turkey
+          details: 
+Karel is an electronic telecommunication company leading in its field with over 35 years in the area. They provide telephone exchanges for various government bodies and private organizations. |
+          
               Experience in this company:
-              + First
-              + Second
+              + Full Stack app development for internal uses
+              + Documenting and Testing F5-Big IP machine
 
-              ...
-
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          tag: Remote, part-time
-          location: Beijing
-          details: |
-              Experience in this company:
-              + First
-              + Second
-
-              ...
 
 projects:
     display: true
     title: Projects
     intro: |
-        This is all the projects I'm involved in.
+        These are some projects i'm involved in.
 
     items:
         - name: Foo
