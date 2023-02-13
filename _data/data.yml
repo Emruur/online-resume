@@ -37,9 +37,9 @@ experiences:
     display: true
     title: Experiences
     items:
-        - role: Full-StackDeveloper
+        - role: Intern
           time: 18.07.2022 - 12.08.2022
-          company: Karel
+          company: Karel 
           tag:
           location: Ankara, Turkey
           details: |
@@ -55,10 +55,10 @@ projects:
         These are some projects i'm involved in.
 
     items:
-        - name: Foo
-          link: https://www.google.com
+        - name: Erasmus application system
+          link: https://github.com/Emruur/Erasmus-Application-System
           details: |
-              Project Foo's detail, you can write markdown format text.
+              ErasmusBilkent is a web-based Erasmus Application Manager software. This software is intended to digitalise all Erasmus applications on an online platform and to eliminate manual check processes such as e-mails and paper forms.
 
         - name: Bar
           link:
