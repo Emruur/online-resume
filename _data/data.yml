@@ -98,7 +98,6 @@ skills:
         + Operating systems: 
           + Unix
           + Linux
-        ...
 
 education:
     display: true
@@ -112,6 +111,8 @@ education:
               Experience in this program:
               + High Level Physics
               + High Level Turkish Literature
+              + Basketball
+              + Choir
               ...
 
         - university: Bilkent University
@@ -120,13 +121,13 @@ education:
           degree: Bachelor
           details: |
               Experience in this university:
-              + First
-              + Second
-
-              ...
+              + Computer Architecture & System Design
+              + Algorithms & Data Structures
+              + Project Management
+              + Design Patterns & Object Oriented Programming
 
 certificates:
-    display: true
+    display: false
     title: Certificates
     items:
         - name: Course Foo
@@ -142,7 +143,7 @@ certificates:
           details: |
 
 publications:
-    display: true
+    display: false
     title: Publications
     intro: |
         This is all the books I wrote.
@@ -158,7 +159,7 @@ publications:
           link:
 
 patents:
-    display: true
+    display: false
     title: Patents
     details: |
         This is all my patents.
@@ -168,10 +169,12 @@ languages:
     display: true
     title: Languages
     items:
-        - idiom: Chinese
+        - idiom: Turkish
           level: Native
         - idiom: English
           level: Professional
+        - idiom: German
+          level: Minimal
 
 interests:
     display: true
