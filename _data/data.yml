@@ -60,10 +60,15 @@ projects:
           details: |
               ErasmusBilkent is a web-based Erasmus Application Manager software. This software is intended to digitalise all Erasmus applications on an online platform and to eliminate manual check processes such as e-mails and paper forms.
 
-        - name: Bar
-          link:
+        - name: Maze Solver (Personal Project)
+          link: https://main.d3jwwqdcx3yrse.amplifyapp.com/
           details: |
-              Project Bar's detail, you can write markdown format text.
+              Provides a simple grid to create custom mazes. Solves the maze in real time using A* search algorithm.
+
+        - name: Field Synthesizer (Personal Project)
+          link: https://emruur.github.io/Field-Synthesizer
+          details: |
+              Creates a moving grass like field. Beautifoul visuals can be created by playing with the field parameters. Parameters can be modulated to extend possibilities of the patterns.
 
 skills:
     display: true
