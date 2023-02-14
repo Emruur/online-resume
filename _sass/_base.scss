@@ -168,6 +168,10 @@ small {
             li {
                 display: list-item;
                 white-space: nowrap;
+
+                .description{
+                    margin-left: $spacing-unit;
+                }
             }
         }
     }
