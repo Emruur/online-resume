@@ -160,7 +160,6 @@ small {
         }
     }
 
-    .languages,
     .interests {
         ul {
             margin-bottom: $spacing-unit / 4;
@@ -168,11 +167,22 @@ small {
             li {
                 display: block;
                 white-space: nowrap;
+            }
+        }
+    }
 
-                // &:not(:last-child)::after {
-                //     content: '/';
-                //     margin: 0 0.25em;
-                // }
+    .languages{
+        ul {
+            margin-bottom: $spacing-unit / 4;
+
+            li {
+                display: inline;
+                white-space: nowrap;
+
+                &:not(:last-child)::after {
+                    content: '/';
+                    margin: 0 0.25em;
+                }
             }
         }
     }
