@@ -29,7 +29,10 @@ profile:
     display: true
     title: Profile
     details: |
-      I'm a programmer who's interested in using code to simulate natural systems and observe their behavior based on physical laws. Although I specialize in developing full-stack web applications, I can apply my skills to other areas like mobile and desktop development. I'm particularly good at learning new skills and putting them into practice.
+      I'm a programmer who's interested in using code to simulate natural
+      systems and observe their behavior based on physical laws. Although
+      I specialize in developing full-stack web applications, 
+      I can apply my skills to other areas like mobile and desktop development. I'm particularly good at learning new skills and putting them into practice.
 
 
 
@@ -44,8 +47,8 @@ experiences:
           location: Ankara, Turkey
           details: |
             Experience in this company:
-            + Full stack app development for internal applications
-            + Testing and Documenting IT tools for the department
+            + Developed full-stack applications for internal use
+            + Performed IT tool testing and documentation for the IT team
 
 
 projects:
@@ -55,20 +58,21 @@ projects:
         These are some projects i'm involved in.
 
     items:
-        - name: Erasmus application system
+        - name: Erasmus Application System
           link: https://github.com/Emruur/Erasmus-Application-System
           details: |
-              ErasmusBilkent is a web-based Erasmus Application Manager software. This software is intended to digitalise all Erasmus applications on an online platform and to eliminate manual check processes such as e-mails and paper forms.
+              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms.
+
 
         - name: Maze Solver (Personal Project)
           link: https://main.d3jwwqdcx3yrse.amplifyapp.com/
           details: |
-              Provides a simple grid to create custom mazes. Solves the maze in real time using A* search algorithm.
+              MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
 
         - name: Field Synthesizer (Personal Project)
           link: https://emruur.github.io/Field-Synthesizer
           details: |
-              Creates a moving grass like field. Beautifoul visuals can be created by playing with the field parameters. Parameters can be modulated to extend possibilities of the patterns.
+              Field Synthesizer generates a dynamic field that mimics the appearance of moving grass, allowing you to create stunning visual effects by adjusting and modulating its parameters through the simple interface. 
 
 skills:
     display: true
@@ -182,13 +186,13 @@ interests:
     title: Interests
     items:
         - item: Music Production & Piano Player
-          details: I play the keyboard in the band Tesadufen. I also produce music independently and for Tesadüfen.
+          details: Along with playing keyboard for Tesadufen, I produce music for the band as well as independently.
           link: 
         - item: Skiing & Mountaineenring
-          details: I do snowboarding, alpine skiing and cross country skiing. I am in the METU mountaineering club.
+          details: My interests in skiing include snowboarding, alpine skiing, and cross country skiing. Additionally, I am a member of the METU mountaineering club.
           link: 
         - item: Kite Surfing
-          details: I started with wind surfing but decided to transition to kite surfing. 
+          details: Kite surfing is one of my passions, and I enjoy surfing in beautiful locations throughout Turkey, including Akyaka, Gokçeada, and Urla. 
           link:
 
 
@@ -196,8 +200,8 @@ evaluation:
     display: true
     title: Self-evaluation
     details: |
-        + I am confident that i can adapt my skills to any field since i have strong computer science fundamentals. 
-        + I have high learning capability and i have great motivation in learn. I can learn and apply new technologies rapidly.
+        + Given my strong understanding of computer science, I am confident in my ability to adapt and excel in any new field I may encounter.
+        + I am driven to learn and excited to take on new challenges, with a natural ability to quickly learn and apply new technologies.
 
 footer:
     display: false
