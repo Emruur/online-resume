@@ -166,13 +166,13 @@ small {
             margin-bottom: $spacing-unit / 4;
 
             li {
-                display: inline;
+                display: block;
                 white-space: nowrap;
 
-                &:not(:last-child)::after {
-                    content: '/';
-                    margin: 0 0.25em;
-                }
+                // &:not(:last-child)::after {
+                //     content: '/';
+                //     margin: 0 0.25em;
+                // }
             }
         }
     }

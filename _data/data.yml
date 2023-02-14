@@ -180,10 +180,13 @@ interests:
     display: true
     title: Interests
     items:
-        - item: Music Production & Performance
-          link:
+        - item: Music Production & Piano Player
+          link: https://www.instagram.com/tesadufenofficial/
         - item: Skiing & Mountaineenring
+          link: 
+        - item: Kite Surfing
           link:
+
 
 evaluation:
     display: true
