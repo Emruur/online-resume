@@ -110,7 +110,7 @@ education:
     title: Education
     items:
         - university: Ted Ankara College
-          time: 2015 - 2018
+          time: 2016-2020
           major: International Bacaloruate Program (IB)
           degree: High School
           details: |
@@ -121,7 +121,7 @@ education:
               + School Choir
 
         - university: Bilkent University
-          time: 2011 - 2015
+          time: 2020-2024
           major: Computer Science
           degree: Bachelor
           details: |
