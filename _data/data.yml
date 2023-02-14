@@ -182,13 +182,13 @@ interests:
     title: Interests
     items:
         - item: Music Production & Piano Player
-          details: I play the keyboard in the band Tesadufen. I also produce music for Tesadüfen and independently
+          details: I play the keyboard in the band Tesadufen. I also produce music independently and for Tesadüfen.
           link: 
         - item: Skiing & Mountaineenring
-          details: I do snowboarding and alpine skiing and cross country skiing. I am in the METU mountaineering club.
+          details: I do snowboarding, alpine skiing and cross country skiing. I am in the METU mountaineering club.
           link: 
         - item: Kite Surfing
-          details: I started with wind surfing but decided to go with kite surfing. 
+          details: I started with wind surfing but decided to transition to kite surfing. 
           link:
 
 
@@ -196,11 +196,8 @@ evaluation:
     display: true
     title: Self-evaluation
     details: |
-        Here is my self evaluation.
-        + Smart
-        + Boo
-
-        ...
+        + I am confident that i can adapt my skills to any field since i have strong computer science fundamentals. 
+        + I have high learning capability and i have great motivation in learn. I can learn and apply new technologies rapidly.
 
 footer:
     display: false
