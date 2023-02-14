@@ -14,7 +14,12 @@
             {% else %}
             <li>
                 <p> {{ interest.item }}</p>
-               <small class="description">{{interest.details}}</small>
+                <ul>
+                    <li>
+                        <small class="description">{{interest.details}}</small>
+                    </li>
+                </ul>
+               
             </li>
             {% endif %}
 
