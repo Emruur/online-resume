@@ -170,6 +170,7 @@ small {
                 white-space: nowrap;
 
                 .description{
+                    display: block;
                     margin-left: $spacing-unit;
                 }
             }
