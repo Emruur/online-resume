@@ -88,16 +88,18 @@ skills:
           + Express (Node.js)
           + Flask,Django (Python)
           + SQL
-          + Graph QL
+          + GraphQL
         + Cloud:
           + Firebase
           + Supabase
           + Docker
         + Extensive algorithms and data stuctures:
-          + C++
+          + C++, Rust
         + Operating systems: 
           + Unix
           + Linux
+        + Data processing & Visualization
+          + Julia, Python
 
 education:
     display: true
