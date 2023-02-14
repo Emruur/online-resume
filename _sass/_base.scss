@@ -163,7 +163,7 @@ small {
     .interests {
         ul {
             margin-bottom: $spacing-unit / 4;
-
+            list-style-type: circle;
             li {
                 display: block;
                 white-space: nowrap;
