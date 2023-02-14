@@ -170,7 +170,7 @@ small {
                 white-space: nowrap;
 
                 .description{
-                    max-width: 90%;
+                    white-space: initial;
                     margin-left: $spacing-unit;
                 }
             }
