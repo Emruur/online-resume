@@ -189,7 +189,7 @@ interests:
           details: I do snowboarding and alpine skiing and cross country skiing. I am in the METU mountaineering club.
           link: 
         - item: Kite Surfing
-          details: 
+          details: I started with wind surfing but decided to go with kite surfing. 
           link:
 
 
@@ -204,7 +204,7 @@ evaluation:
         ...
 
 footer:
-    display: true
+    display: false
 
 close: >
     Sorry, my resume has been hidden.
