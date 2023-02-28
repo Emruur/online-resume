@@ -2,10 +2,11 @@ basic:
     name: Emre Uğur
     title: Computer Scientist
     avatar:
-        display: true
+        display: false
         path: profile-avatar.jpeg
 
 contact:
+    display: false
     location: Ankara, Turkey
     email: emre.ugur@ug.bilkent.edu.tr
     phone: +90-531-270-68-02
