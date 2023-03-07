@@ -2,7 +2,7 @@ basic:
     name: Emre Uğur
     title: Computer Scientist
     avatar:
-        display: false
+        display: true
         path: profile-avatar.jpeg
 
 contact:
