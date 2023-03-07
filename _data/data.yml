@@ -27,7 +27,7 @@ contact:
     goodreads:
 
 profile:
-    display: true
+    display: false
     title: Profile
     details: |
       I'm a programmer who's interested in using code to simulate natural
@@ -62,23 +62,23 @@ projects:
         - name: Erasmus Application System
           link: https://github.com/Emruur/Erasmus-Application-System
           details: |
-              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms.
+              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. https://github.com/Emruur/Erasmus-Application-System
 
 
         - name: Maze Solver (Personal Project)
           link: https://main.d3jwwqdcx3yrse.amplifyapp.com/
           details: |
-              MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
+              MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.https://main.d3jwwqdcx3yrse.amplifyapp.com/
 
         - name: Field Synthesizer (Personal Project)
           link: https://emruur.github.io/Field-Synthesizer
           details: |
-              Field Synthesizer generates a dynamic field that mimics the appearance of moving grass, allowing you to create stunning visual effects by adjusting and modulating its parameters through the simple interface. 
+              Field Synthesizer generates a dynamic field that mimics the appearance of moving grass, allowing you to create stunning visual effects by adjusting and modulating its parameters through the simple interface. https://emruur.github.io/Field-Synthesizer
 
         - name: Bubbles (Desktop Game, Personal Project)
           link: https://github.com/Emruur/BUBBLES.git
           details: |
-              A simple game where the player must pop the bubbles that are bouncing in a restricted time. Game is over when either one of the bubbles hit the player or the time runs out.
+              A simple game where the player must pop the bubbles that are bouncing in a restricted time. Game is over when either one of the bubbles hit the player or the time runs out. https://github.com/Emruur/BUBBLES.git
 
 skills:
     display: true
@@ -200,7 +200,7 @@ interests:
 
 
 evaluation:
-    display: true
+    display: false
     title: Self-evaluation
     details: |
         + Given my strong understanding of computer science, I am confident in my ability to adapt and excel in any new field I may encounter.
