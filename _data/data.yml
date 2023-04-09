@@ -6,7 +6,7 @@ basic:
         path: profile-avatar.jpeg
 
 contact:
-    display: false
+    display: true
     location: Ankara, Turkey
     email: emre.ugur@ug.bilkent.edu.tr
     phone: +90-531-270-68-02
@@ -27,7 +27,7 @@ contact:
     goodreads:
 
 profile:
-    display: false
+    display: true
     title: Profile
     details: |
       I'm a programmer who's interested in using code to simulate natural
@@ -47,8 +47,7 @@ experiences:
           tag:
           location: Ankara, Turkey
           details: |
-            Experience in this company:
-            + Developed full-stack applications for internal use
+            + Developed full-stack web applications for internal use in KAREL factory
             + Performed IT tool testing and documentation for the IT team
 
 
@@ -59,7 +58,7 @@ projects:
         These are some projects i'm involved in.
 
     items:
-        - name: Erasmus Application System
+        - name: Erasmus Web Application System (Backend Developer)
           link: https://github.com/Emruur/Erasmus-Application-System
           details: |
               ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. https://github.com/Emruur/Erasmus-Application-System
@@ -94,8 +93,7 @@ skills:
         + Backend development:
           + Express (Node.js)
           + Flask,Django (Python)
-          + SQL
-          + NoSQL
+          + SQL, NOSQL
         + Cloud:
           + Firebase
           + Supabase
@@ -117,7 +115,6 @@ education:
           major: International Bacaloruate Program (IB)
           degree: High School
           details: |
-              Experience in this program:
               + High Level Physics (IB)
               + High Level Turkish Literature (IB)
               + Basketball Team
@@ -128,7 +125,6 @@ education:
           major: Computer Science
           degree: Bachelor
           details: |
-              Experience in this university:
               + Computer Architecture & System Design
               + Algorithms & Data Structures
               + Project Management
