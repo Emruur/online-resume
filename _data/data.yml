@@ -88,20 +88,15 @@ skills:
           + HTML, JS, CSS
           + Vue, Nuxt
         + Game Development:
-          + Unity (C#)
-          + Python 
+          + Unity (C#), Python
         + Backend development:
-          + Express (Node.js)
-          + Flask,Django (Python)
+          + Flask,Django (Python), Express
           + SQL, NOSQL
         + Cloud:
-          + Firebase
-          + Supabase
-          + Docker
+          + Firebase, Supabase, Docker
         + Extensive algorithms and data stuctures:
           + C++, Rust, Java
         + Operating systems: 
-          + Unix
           + Linux
         + Data processing & Visualization
           + Julia, Python
@@ -110,15 +105,14 @@ education:
     display: true
     title: Education
     items:
-        - university: Ted Ankara College
+        - university: Ted Ankara High School
           time: 2016-2020
           major: International Bacaloruate Program (IB)
           degree: High School
           details: |
               + High Level Physics (IB)
               + High Level Turkish Literature (IB)
-              + Basketball Team
-              + School Choir
+              + Basketball Team, Choir
 
         - university: Bilkent University
           time: 2020-2024
@@ -177,8 +171,6 @@ languages:
           level: Native
         - idiom: English
           level: Professional
-        - idiom: German
-          level: Minimal
 
 interests:
     display: true
