@@ -30,11 +30,10 @@ profile:
     display: true
     title: Profile
     details: |
-      I'm a programmer who's interested in using code to simulate natural
-      systems and observe their behavior based on physical laws. Although
-      I specialize in developing full-stack web applications, 
-      I can apply my skills to other areas like mobile and desktop development. I'm particularly good at learning new skills and putting them into practice.
-
+      As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes.
+      My research experience includes a focus on Multi-Agent Reinforcement Learning. Currently, I am working on an automated job interview scoring system. This project leverages advanced machine learning techniques and Large Language Models (LLMs) to evaluate both the speaking proficiency and the content quality of interviews.
+      I have a robust technical foundation on engineering full-stack web applications. However, I can adapt my skills to various areas, backed by a solid foundation in my current knowledge. I excel in acquiring and applying new skills efficiently.
+      I am committed to pursuing a Master's degree in Artificial Intelligence.
 
 
 experiences:
@@ -49,6 +48,17 @@ experiences:
           details: |
             + Developed full-stack web applications for internal use in KAREL factory
             + Performed IT tool testing and documentation for the IT team
+        - role: Intern
+          time: 15.08.2023 - 15.09.2023
+          company: QITASC Gmbh
+          tag:
+          location: Vienna, Austria
+          details: |
+            + Experience in working with LLM'S and in-context learning
+            + Groundtruth engineering for QAIA(Qitasc's customer chatbot)
+            + Benchmarking system for QAIA
+            + Removal of unwanted information from QAIA'S knowledge base.
+
 
 
 projects:
@@ -123,6 +133,8 @@ education:
               + Algorithms & Data Structures
               + Project Management
               + Design Patterns & Object Oriented Programming
+              + Artificial Intelligence
+              + Computer Vision
 
 certificates:
     display: false
