@@ -40,14 +40,7 @@ experiences:
     display: true
     title: Experiences
     items:
-        - role: Intern
-          time: 18.07.2022 - 12.08.2022
-          company: Karel 
-          tag:
-          location: Ankara, Turkey
-          details: |
-            + Developed full-stack web applications for internal use in KAREL factory
-            + Performed IT tool testing and documentation for the IT team
+    
         - role: Intern
           time: 15.08.2023 - 15.09.2023
           company: QITASC Gmbh
@@ -59,20 +52,37 @@ experiences:
             + Benchmarking system for QAIA
             + Removal of unwanted information from QAIA'S knowledge base.
 
-
+        - role: Intern
+          time: 18.07.2022 - 12.08.2022
+          company: Karel 
+          tag:
+          location: Ankara, Turkey
+          details: |
+            + Developed full-stack web applications for internal use in KAREL factory. (Digitialized job application form)
+            + Performed IT tool testing and documentation for the IT team (BigIp)
+        
 
 projects:
     display: true
-    title: Projects
-    intro: |
-        These are some projects i'm involved in.
+    title: Projects & Research
 
     items:
+        - name: Job Talk (Software Architect)
+          link: https://4c1lsoftware.com.tr
+          details: |
+              System for automatically evaluating both the speaking proficiency and the content quality of job interviews.
+
+        - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
+          link: https://github.com/Emruur/prey_predetor
+          details: |
+              In this paper, we addressed the problem of multi-agent learning in a prey-predator environment.
+              We experimented with Deep Deterministic Policy Gradient(DDPG) 
+              Multi Agent Deep Deterministic Policy Gradient (MADDPG) and Shared Critic Deep Deterministic Policy Gradient (SCDDPG) algorithms
+
         - name: Erasmus Web Application System (Backend Developer)
           link: https://github.com/Emruur/Erasmus-Application-System
           details: |
               ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. https://github.com/Emruur/Erasmus-Application-System
-
 
         - name: Maze Solver (Personal Project)
           link: https://main.d3jwwqdcx3yrse.amplifyapp.com/
