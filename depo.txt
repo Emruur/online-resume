@@ -1,0 +1,12 @@
+
+    - name: Field Synthesizer (Personal Project)
+          display: false    
+          link: https://emruur.github.io/Field-Synthesizer
+          details: |
+              Field Synthesizer generates a dynamic field that mimics the appearance of moving grass, allowing you to create stunning visual effects by adjusting and modulating its parameters through the simple interface. https://emruur.github.io/Field-Synthesizer
+
+        - name: Bubbles (Desktop Game, Personal Project)
+          display: false
+          link: https://github.com/Emruur/BUBBLES.git
+          details: |
+              A simple game where the player must pop the bubbles that are bouncing in a restricted time. Game is over when either one of the bubbles hit the player or the time runs out. https://github.com/Emruur/BUBBLES
