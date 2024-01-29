@@ -74,7 +74,7 @@ projects:
               System for automatically evaluating both the speaking proficiency and the content quality of job interviews.
                 
         - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
-          link: https://github.com/Emruur/prey_predetor/report.pdf
+          link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
           details: |
               In this paper, we addressed the problem of multi-agent learning in a prey-predator environment.
                 
