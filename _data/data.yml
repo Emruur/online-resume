@@ -8,8 +8,7 @@ basic:
 contact:
     display: true
     location: Ankara, Turkey
-    email: emre.ugur@ug.bilkent.edu.tr
-    phone: +90-531-270-68-02
+    email: emreu02@gmail.com
     website: emruur.github.io
     wechat:
     whatsapp:
@@ -125,7 +124,6 @@ education:
               + Computer Vision
               + Computer Architecture & System Design
               + Algorithms & Data Structures
-              + Project Management
               + Design Patterns & Object Oriented Programming
         - university: Ted Ankara High School
           time: 2016-2020
