@@ -30,9 +30,10 @@ profile:
     title: Profile
     details: |
       As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes.
-      My research experience includes a focus on Multi-Agent Reinforcement Learning. Currently, I am working on an automated job interview scoring system. This project leverages advanced machine learning techniques and Large Language Models (LLMs) to evaluate both the speaking proficiency and the content quality of interviews.
-      I have a robust technical foundation on engineering full-stack web applications. However, I can adapt my skills to various areas, backed by a solid foundation in my current knowledge. I excel in acquiring and applying new skills efficiently.
-      I am committed to pursuing a Master's degree in Artificial Intelligence.
+      I am currently pursuing a master’s in AI at Leiden University, Netherlands. My research experience includes a focus on Multi-Agent Reinforcement Learning.
+      I excel at acquiring and applying new skills efficiently, as I am highly motivated to learn and have the necessary foundation and expertise.
+      I have a robust technical foundation in software engineering and am a firm believer in a structured engineering approach when tackling large problems.
+      
 
 
 experiences:
@@ -68,14 +69,14 @@ projects:
 
     items:
         - name: Job Talk (Software Architect)
-          link: https://4c1lsoftware.com.tr
+          link:  https://github.com/Emruur/CS491Research/blob/main/JobTalkResearch-2.pdf
           details: |
-              System for automatically evaluating both the speaking proficiency and the content quality of job interviews.
+              System for automatically evaluating both the speaking proficiency and the content quality of job interviews using advanced machine learning techniques.
                 
         - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
           link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
           details: |
-              In this paper, we addressed the problem of multi-agent learning in a prey-predator environment.
+              We addressed the problem of multi-agent learning in a prey-predator environment.
                 
         - name: Erasmus Web Application System (Backend Developer)
           link: https://github.com/Emruur/Erasmus-Application-System
@@ -86,6 +87,11 @@ projects:
           link: https://mazehost.web.app
           details: |
               MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
+            
+        - name: Creative Brushes (Personal Project)
+          link: https://emruur.github.io/CreativeBrushes/
+          details: |
+              Creative brushes will allow you to direct autonomous drawing agents to draw creative sketches.The drawing agents act as interesting and non-predictable brushes that will steer you in the right creative direction.
 
         
 
@@ -115,6 +121,14 @@ education:
     display: true
     title: Education
     items:
+        - university: Leiden University
+          time: 2024 - 
+          major: Computer Science
+          degree: Master's
+          details: |
+              + Deep Learning, Data Mining, Reinforcement Learning
+              + Automated Machine Learning
+
         - university: Bilkent University
           time: 2020-2024
           major: Computer Science
