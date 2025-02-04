@@ -7,7 +7,7 @@ basic:
 
 contact:
     display: true
-    location: Ankara, Turkey
+    location: Leiden, Netherlands
     email: emreu02@gmail.com
     website: emruur.github.io
     wechat:
@@ -189,7 +189,7 @@ patents:
         + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-    display: true
+    display: false
     title: Languages
     items:
         - idiom: Turkish
@@ -198,7 +198,7 @@ languages:
           level: Professional
 
 interests:
-    display: true
+    display: false
     title: Interests
     items:
         - item: Music Production & Piano Player
