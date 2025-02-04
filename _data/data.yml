@@ -78,20 +78,20 @@ projects:
           details: |
               We addressed the problem of multi-agent learning in a prey-predator environment.
                 
-        - name: Erasmus Web Application System (Backend Developer)
-          link: https://github.com/Emruur/Erasmus-Application-System
+        - name: Creative Brushes (Personal Project)
+          link: https://emruur.github.io/CreativeBrushes/
           details: |
-              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. 
-
+              Creative brushes will allow you to direct autonomous drawing agents to draw creative sketches.The drawing agents act as interesting and non-predictable brushes that will steer you in the right creative direction.
         - name: Maze Solver (Personal Project)
           link: https://mazehost.web.app
           details: |
               MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
             
-        - name: Creative Brushes (Personal Project)
-          link: https://emruur.github.io/CreativeBrushes/
+        - name: Erasmus Web Application System (Backend Developer)
+          link: https://github.com/Emruur/Erasmus-Application-System
           details: |
-              Creative brushes will allow you to direct autonomous drawing agents to draw creative sketches.The drawing agents act as interesting and non-predictable brushes that will steer you in the right creative direction.
+              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. 
+
 
         
 
