@@ -30,10 +30,11 @@ profile:
     title: Profile
     details: |
       As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes.
-      I am currently pursuing a master’s in AI at Leiden University, Netherlands. My research experience includes a focus on Multi-Agent Reinforcement Learning.
-      I excel at acquiring and applying new skills efficiently, as I am highly motivated to learn and have the necessary foundation and expertise.
-      I have a robust technical foundation in software engineering and am a firm believer in a structured engineering approach when tackling large problems.
-      
+      Currently pursuing a master’s in AI at Leiden University, Netherlands. 
+      I have hands-on experience in building information retrieval systems for trustworthy and lightweight chatbots.  
+      With a robust foundation in software engineering, I always seek structured engineering approaches when tackling large-scale problems.
+      I excel at acquiring and applying new skills efficiently, as I am highly motivated to learn and have the necessary foundation.
+
 
 
 experiences:
@@ -42,15 +43,22 @@ experiences:
     items:
     
         - role: Intern
+          time: 16.04.2025 - 16.08.2025
+          company: Commit Global
+          tag:
+          location: Den Hagg, Netherlands
+          details: |
+            + Building information retrieval systems for trustworthy and lightweight chatbots. (SmartQA)
+            + Retrieval augmented chatbots
+
+        - role: Intern
           time: 15.08.2023 - 15.09.2023
           company: QITASC Gmbh
           tag:
           location: Vienna, Austria
           details: |
             + Experience in working with LLM'S and in-context learning
-            + Groundtruth engineering for QAIA(Qitasc's customer chatbot)
-            + Benchmarking system for QAIA
-            + Removal of unwanted information from QAIA'S knowledge base.
+            + Groundtruth engineering and benchmarking system for QAIA(Qitasc's customer chatbot)
 
         - role: Intern
           time: 18.07.2022 - 12.08.2022
@@ -68,29 +76,35 @@ projects:
     title: Projects & Research
 
     items:
-        - name: Job Talk (Software Architect)
+        - name: SmartQA
+          link:  https://github.com/Emruur/SmartQA
+          details: |
+              SmartQA System — Full-stack pipeline for building, querying, and interacting with question & answer corpora. A lightweight and trustworthy alternative to a LLM based chatbot.
+                
+        - name: Job Talk (AI Architect)
           link:  https://github.com/Emruur/CS491Research/blob/main/JobTalkResearch-2.pdf
           details: |
               System for automatically evaluating both the speaking proficiency and the content quality of job interviews using advanced machine learning techniques.
-                
+
         - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
           link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
           details: |
-              We addressed the problem of multi-agent learning in a prey-predator environment.
+              We addressed the problem of multi-agent reinforcement learning in a prey-predator environment.
                 
         - name: Creative Brushes (Personal Project)
           link: https://emruur.github.io/CreativeBrushes/
           details: |
               Creative brushes will allow you to direct autonomous drawing agents to draw creative sketches.The drawing agents act as interesting and non-predictable brushes that will steer you in the right creative direction.
+
         - name: Maze Solver (Personal Project)
           link: https://mazehost.web.app
           details: |
               MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
             
-        - name: Erasmus Web Application System (Backend Developer)
-          link: https://github.com/Emruur/Erasmus-Application-System
-          details: |
-              ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. 
+        # - name: Erasmus Web Application System (Backend Developer)
+        #   link: https://github.com/Emruur/Erasmus-Application-System
+        #   details: |
+        #       ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. 
 
 
         
