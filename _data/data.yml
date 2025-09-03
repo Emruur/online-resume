@@ -79,7 +79,7 @@ projects:
         - name: SmartQA
           link:  https://github.com/Emruur/SmartQA
           details: |
-              SmartQA System — Full-stack pipeline for building, querying, and interacting with question & answer corpora. A lightweight and trustworthy alternative to a LLM based chatbot.
+              SmartQA System — Full-stack pipeline for building, querying, and interacting with question & answer corpora. A lightweight and trustworthy alternative to LLM based chatbots.
                 
         - name: Job Talk (AI Architect)
           link:  https://github.com/Emruur/CS491Research/blob/main/JobTalkResearch-2.pdf
@@ -148,7 +148,6 @@ education:
           major: Computer Science
           degree: Bachelor
           details: |
-              + Artificial Intelligence & Machine Learning
               + Computer Vision
               + Computer Architecture & System Design
               + Algorithms & Data Structures
@@ -158,9 +157,6 @@ education:
           major: International Bacaloruate Program (IB)
           degree: High School
           details: |
-              + High Level Physics (IB)
-              + High Level Turkish Literature (IB)
-              + Basketball Team, Choir
               
 
 certificates:
