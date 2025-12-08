@@ -29,11 +29,10 @@ profile:
     display: true
     title: Profile
     details: |
-      As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes.
-      Currently pursuing a master’s in AI at Leiden University, Netherlands. 
-      I have hands-on experience in building information retrieval systems for trustworthy and lightweight chatbots.  
-      With a robust foundation in software engineering, I always seek structured engineering approaches when tackling large-scale problems.
-      I excel at acquiring and applying new skills efficiently, as I am highly motivated to learn and have the necessary foundation.
+      As a programmer fascinated by Artificial Intelligence and modeling natural systems, particularly the human brain, I have a deep interest in understanding and replicating complex processes.
+      I am currently pursuing a Master’s in AI at Leiden University, the Netherlands, where I am doing research on a brain-inspired approach to make LLMs more efficient. In my latest internship, I gained hands-on experience in building information retrieval systems for trustworthy and lightweight chatbots.  
+      With a solid foundation in software engineering, I always seek structured approaches when tackling large problems.
+      I excel at acquiring and applying new skills efficiently, as I am highly motivated to learn and have the necessary knowledge.
 
 
 
@@ -86,10 +85,7 @@ projects:
           details: |
               System for automatically evaluating both the speaking proficiency and the content quality of job interviews using advanced machine learning techniques.
 
-        - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
-          link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
-          details: |
-              We addressed the problem of multi-agent reinforcement learning in a prey-predator environment.
+        
                 
         - name: Creative Brushes (Personal Project)
           link: https://emruur.github.io/CreativeBrushes/
@@ -100,6 +96,11 @@ projects:
           link: https://mazehost.web.app
           details: |
               MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
+
+        - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
+          link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
+          details: |
+              We addressed the problem of multi-agent reinforcement learning in a prey-predator environment.
             
         # - name: Erasmus Web Application System (Backend Developer)
         #   link: https://github.com/Emruur/Erasmus-Application-System
