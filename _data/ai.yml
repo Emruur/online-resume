@@ -73,40 +73,35 @@ projects:
     title: Projects & Research
 
     items:
-        - name: DeltaAttention (Master's Thesis)
-          link: https://emruur.github.io/DeltaAttention/
-          details: |
-              Accelerating LLM prefill by compressing the key matrix before QK multiplication. Implemented custom Triton/CUDA kernels achieving wall-clock speedup on long contexts.
-
-        - name: FeatureCircuits (Blogpost)
-          link: https://emruur.github.io/FeatureCircuits/
-          details: |
-              Survey of the LLM interpretability literature — the study of how large language models work internally, covering feature extraction, circuits, and mechanistic interpretability.
-
         - name: SmartQA
           link: https://github.com/Emruur/SmartQA
           details: |
               Full-stack pipeline for building, querying, and interacting with Q&A corpora. A lightweight, hallucination-resistant alternative to LLM-based chatbots, usable in budget- or energy-constrained environments.
 
-        - name: JobTalk Analyzer
-          link: https://github.com/4C1LSoftware/JobTalkAnalyzer
+        - name: SetBuilder
+          link: https://github.com/Emruur/SetBuilder
           details: |
-              ML-driven interview evaluation tool. Given a candidate's recording, produces a structured report covering speaking performance and content quality.
-
-        - name: CreativeBrushes
-          link: https://emruur.github.io/CreativeBrushes/
-          details: |
-              Co-creative drawing application where autonomous agents act as your brush. A swarm of vehicles steers through a flow field shaped by your stroke, inspired by watercolor and Turkish marbling art (Ebru).
+              Open source DJ set builder — arrange tracks, apply per-track DSP (EQ, compression, limiting), normalize loudness, and render a mix-ready numbered export.
 
         - name: MinecraftSettlement
           link: https://github.com/Emruur/MinecraftSettlement
           details: |
               Procedurally generates a settlement in Minecraft using a genetic algorithm for placement and modular builds for construction.
 
-        - name: "Research: Multi-Agent Learning in a Prey-Predator Environment"
-          link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
+        - name: JobTalk Analyzer
+          link: https://github.com/4C1LSoftware/JobTalkAnalyzer
           details: |
-              Multi-agent reinforcement learning in a prey-predator environment — coordination, emergent behavior, and policy learning under adversarial dynamics.
+              ML-driven interview evaluation tool. Given a candidate's recording, produces a structured report covering speaking performance and content quality.
+
+        - name: DeltaAttention (Master's Thesis)
+          link: https://emruur.github.io/DeltaAttention/
+          details: |
+              Accelerating LLM prefill by compressing the key matrix before QK multiplication. Implemented custom Triton/CUDA kernels achieving wall-clock speedup on long contexts.
+
+        - name: FeatureCircuits
+          link: https://emruur.github.io/FeatureCircuits/
+          details: |
+              Survey of the LLM interpretability literature — the study of how large language models work internally, covering feature extraction, circuits, and mechanistic interpretability.
 
 
         
