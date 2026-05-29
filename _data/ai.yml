@@ -29,11 +29,11 @@ profile:
     display: true
     title: Profile
     details: |
-      Computer scientist with a Master's in Artificial Intelligence and a Bachelor's in Computer Science, focused on large language models. My thesis covered sparse attention for long-context optimization, implemented down to custom CUDA kernels. I've also surveyed the literature on LLM interpretability, the study of how these models work internally. During an internship I built SmartQA, a full-stack information-retrieval pipeline powering a lightweight, hallucination-resistant chatbot.
+      Computer scientist with a Master's in Artificial Intelligence and a Bachelor's in Computer Science, focused on large language models. My thesis (DeltaAttention) covers sparse attention for long-context optimization, with custom CUDA/Triton kernels. I've also surveyed the literature on LLM interpretability in a blogpost (FeatureCircuits). At Commit Global, I built SmartQA, a full-stack information-retrieval pipeline powering a lightweight, hallucination-resistant chatbot.
 
-      Outside of LLMs I enjoy applying ML to creative problems, such as an evolutionary brush-generation system and a genetic-algorithm settlement generator for Minecraft.
+      Outside of LLMs I enjoy applying ML to creative problems, such as an evolutionary brush-generation system (CreativeBrushes) and a genetic-algorithm settlement generator for Minecraft.
 
-      Open to AI/ML and software development roles.
+      Open to AI/ML roles.
 experiences:
     display: true
     title: Experiences
@@ -43,10 +43,10 @@ experiences:
           time: 16.04.2025 - 16.08.2025
           company: Commit Global
           tag:
-          location: Den Hagg, Netherlands
+          location: Den Haag, Netherlands
           details: |
-            + Building information retrieval systems for trustworthy and lightweight chatbots. (SmartQA)
-            + Retrieval augmented chatbots
+            + Built SmartQA, a full-stack information-retrieval pipeline for lightweight, hallucination-resistant chatbots
+            + Retrieval-augmented generation and Q&A corpus management
 
         - role: Intern
           time: 15.08.2023 - 15.09.2023
@@ -73,37 +73,40 @@ projects:
     title: Projects & Research
 
     items:
-        - name: SmartQA
-          link:  https://github.com/Emruur/SmartQA
+        - name: DeltaAttention (Master's Thesis)
+          link: https://emruur.github.io/DeltaAttention/
           details: |
-              SmartQA System — Full-stack pipeline for building, querying, and interacting with question & answer corpora. A lightweight and trustworthy alternative to LLM based chatbots.
-                
-        - name: Job Talk (AI Architect)
-          link:  https://github.com/Emruur/CS491Research/blob/main/JobTalkResearch-2.pdf
-          details: |
-              System for automatically evaluating both the speaking proficiency and the content quality of job interviews using advanced machine learning techniques.
+              Accelerating LLM prefill by compressing the key matrix before QK multiplication. Implemented custom Triton/CUDA kernels achieving wall-clock speedup on long contexts.
 
-        
-                
-        - name: Creative Brushes (Personal Project)
+        - name: FeatureCircuits (Blogpost)
+          link: https://emruur.github.io/FeatureCircuits/
+          details: |
+              Survey of the LLM interpretability literature — the study of how large language models work internally, covering feature extraction, circuits, and mechanistic interpretability.
+
+        - name: SmartQA
+          link: https://github.com/Emruur/SmartQA
+          details: |
+              Full-stack pipeline for building, querying, and interacting with Q&A corpora. A lightweight, hallucination-resistant alternative to LLM-based chatbots, usable in budget- or energy-constrained environments.
+
+        - name: JobTalk Analyzer
+          link: https://github.com/4C1LSoftware/JobTalkAnalyzer
+          details: |
+              ML-driven interview evaluation tool. Given a candidate's recording, produces a structured report covering speaking performance and content quality.
+
+        - name: CreativeBrushes
           link: https://emruur.github.io/CreativeBrushes/
           details: |
-              Creative brushes will allow you to direct autonomous drawing agents to draw creative sketches.The drawing agents act as interesting and non-predictable brushes that will steer you in the right creative direction.
+              Co-creative drawing application where autonomous agents act as your brush. A swarm of vehicles steers through a flow field shaped by your stroke, inspired by watercolor and Turkish marbling art (Ebru).
 
-        - name: Maze Solver (Personal Project)
-          link: https://mazehost.web.app
+        - name: MinecraftSettlement
+          link: https://github.com/Emruur/MinecraftSettlement
           details: |
-              MazeSolver features a user-friendly grid for creating custom mazes, with real-time maze-solving capabilities using the A* search algorithm.
+              Procedurally generates a settlement in Minecraft using a genetic algorithm for placement and modular builds for construction.
 
-        - name: "Research : Multi Agent Learning in a Prey Predetor Environment"
+        - name: "Research: Multi-Agent Learning in a Prey-Predator Environment"
           link: https://github.com/Emruur/prey_predetor/blob/main/report.pdf
           details: |
-              We addressed the problem of multi-agent reinforcement learning in a prey-predator environment.
-            
-        # - name: Erasmus Web Application System (Backend Developer)
-        #   link: https://github.com/Emruur/Erasmus-Application-System
-        #   details: |
-        #       ErasmusBilkent is an online Erasmus Application Manager software designed to digitalize all Erasmus program applications and replace manual check processes such as emails and paper forms. 
+              Multi-agent reinforcement learning in a prey-predator environment — coordination, emergent behavior, and policy learning under adversarial dynamics.
 
 
         
